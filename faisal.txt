@@ -1,0 +1,3 @@
+node scripts/migrate_referral_wallet_from_excel.mjs --mode apply --target-key "C:/Ruchita/Next/Universe_CC_tool/UJB_Karma_CC/json/prod-project-key.json" --excel "C:/Ruchita/Next/Universe_CC_tool/UJB_Karma_CC/json/ReferralTracking-Export_UJB_1760693869683.xlsx" --manifest "C:/Ruchita/Next/Universe_CC_tool/UJB_Karma_CC/migration-reports/2026-05-19T07-10-46-164Z/manifest.json" --confirm-token "b3d5f396a7ed0b1946a923f6b300acaf" --confirm-project "ujustbe-ea309" --limit 5 --offset 0 --force-large-batch true
+
+node scripts/run-next-with-env.mjs production dev

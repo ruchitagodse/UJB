@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "ujustbedev",
+    "development": "ujustbedev",
+    "production": "ujustbe-ea309",
+    "ujustbe": "ujustbe-ea309"
+  }
+}
